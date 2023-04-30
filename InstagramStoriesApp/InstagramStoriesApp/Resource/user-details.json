@@ -1,0 +1,93 @@
+{
+    "userDetails": [
+        {
+            "name": "Ganesh Kale",
+            "imageUrl" :"https://randomuser.me/api/portraits/men/12.jpg",
+            "content": [
+                {
+                    "type": "video",
+                    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+                },
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=277"
+                },
+                {
+                    "type": "video",
+                    "url": "https://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_5mb.mp4"
+                }
+            ]
+        },{
+            "name": "Arjun",
+            "imageUrl" :"https://randomuser.me/api/portraits/men/11.jpg",
+            "content": [
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=281"
+                },
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=282"
+                },
+                {
+                    "type": "video",
+                    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                },
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=272"
+                }
+            ]
+        },
+        
+        {"name": "Nisha Patel",
+            "imageUrl" :"https://randomuser.me/api/portraits/women/15.jpg",
+            "content": [
+                {
+                    "type": "image",
+                    "url": "https://5.imimg.com/data5/HJ/VV/WF/SELLER-3629151/red-rose-plant-500x500.jpeg"
+                },
+                {
+                    "type": "video",
+                    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Jivankumar",
+            "imageUrl" :"https://randomuser.me/api/portraits/men/9.jpg",
+            "content": [
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=278"
+                },
+                {
+                    "type": "video",
+                    "url": "https://storage.googleapis.com/coverr-main/mp4/It_s%20show%20time.mp4"
+                },
+                {
+                    "type": "video",
+                    "url": "https://storage.googleapis.com/coverr-main/mp4/Verticastle.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Diksha",
+            "imageUrl" :"https://randomuser.me/api/portraits/women/45.jpg",
+            "content": [
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=279"
+                },
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=280"
+                },
+                {
+                    "type": "video",
+                    "url": "https://storage.googleapis.com/coverr-main/webm/ShowT.webm"
+                }
+            ]
+        }
+    ]
+}
